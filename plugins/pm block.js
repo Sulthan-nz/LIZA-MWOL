@@ -1,12 +1,12 @@
 //codded by afnanplk
 
-const LizaMwol = require('../events');
+const NajuSir = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const exec = require('child_process').exec;
 const os = require("os");
 const fs = require('fs');
 const Config = require('../config')
-const anything = require('../media/liza');
+const anything = require('../media/Naju');
 const googleTTS = require('google-translate-tts');
 const Heroku = require('heroku-client');
 const heroku = new Heroku({
